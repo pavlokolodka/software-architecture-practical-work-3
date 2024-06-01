@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Urban Oasis",
+    "propertyID": "bbd83dd8-3d01-440a-92a0-1cd4f243efd1",
+    "userID": "f46b0b1c-7902-43c6-a553-46605429f652",
+    "status": "Registered",
+    "startDate": "2024-05-19T00:00:00",
+    "endDate": "2024-05-24T00:00:00",
+    "totalPrice": 738.0,
+    "pricePerNight": 123.0,
+    "id": "fcbf2d3b-80a7-4389-9b0f-e01c5a328e60",
+    "createdAt": "2024-05-19T20:37:36.9584043+03:00",
+    "updatedAt": "2024-05-19T20:20:03.0407557+03:00"
+  }
+]

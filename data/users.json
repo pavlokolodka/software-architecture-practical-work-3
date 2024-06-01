@@ -1,0 +1,38 @@
+[
+  {
+    "_userCode": {
+      "code": null,
+      "id": "6c27a316-111f-4179-8da7-5879c5cd4738",
+      "createdAt": "2024-05-19T20:37:57.9054842+03:00",
+      "updatedAt": "2024-04-30T17:29:15.491387+03:00"
+    },
+    "email": "admin@reservespot.com",
+    "password": "5c3bc1ef6f42d60d3bb4c4e72ea114441a59154ddc172678656823d548d2afd5",
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "isAdmin": true,
+    "isVerified": true,
+    "userCode": 1234,
+    "id": "586273ac-a89c-4e7e-a791-2c6930b54ae5",
+    "createdAt": "2024-05-19T20:37:57.9055039+03:00",
+    "updatedAt": "2024-04-30T17:29:15.5355096+03:00"
+  },
+  {
+    "_userCode": {
+      "code": null,
+      "id": "7e87d74d-24ac-4b0b-9bc8-612211e1f549",
+      "createdAt": "2024-05-19T20:37:57.9055077+03:00",
+      "updatedAt": "2024-05-16T10:33:37.4062845+03:00"
+    },
+    "email": "hello@pavlokolodka.com",
+    "password": "5c3bc1ef6f42d60d3bb4c4e72ea114441a59154ddc172678656823d548d2afd5",
+    "firstName": "Павло",
+    "lastName": "Колодка",
+    "isAdmin": false,
+    "isVerified": true,
+    "userCode": 1111,
+    "id": "f46b0b1c-7902-43c6-a553-46605429f652",
+    "createdAt": "2024-05-19T20:37:57.9055197+03:00",
+    "updatedAt": "2024-05-16T10:33:37.420285+03:00"
+  }
+]
